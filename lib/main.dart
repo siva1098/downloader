@@ -79,20 +79,6 @@ class _MyHomePageState extends State<MyHomePage> {
     "Orange",
     "Apple",
     "Banana",
-    "Pear",
-    "Orange",
-    "Apple",
-    "Banana",
-    "Pear",
-    "Orange",
-    "Apple",
-    "Banana",
-    "Pear",
-    "Orange",
-    "Apple",
-    "Banana",
-    "Pear",
-    "Orange",
     "Kiwi"
   ];
   @override
